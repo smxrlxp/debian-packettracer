@@ -4,7 +4,7 @@ Este archivo se creó durante la instalación y nos permitía iniciar Packet Tra
 
 Lo realizaremos usando la herramienta `nano` como podemos ver en la imágen.
 
-![img](https://github.com/smxrlxp/debian-packettracer/blob/master/sript/assets/00.jpg)
+![img](https://github.com/smxrlxp/debian-packettracer/blob/master/script/assets/00.jpg)
 
 Debemos modificarlo y dejarlo como vemos en la siguiente imágen. Guardamos los cambis y ya podríamos utilizar el comando sin problemas.
 
